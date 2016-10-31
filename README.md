@@ -60,17 +60,17 @@ public class DorniTutoriales {
                                 System.out.println("Empate");
                             }        
                         }  
-                else if(opcionUsuario == 2){
+                case 2(opcionUsuario == 2){
                     System.out.println("Instrucciones del juego:");
                     System.out.println("Tienes que elegir entre piedra, papel o tijera.");
                     System.out.println("La piedra vence a la tijera.");
                     System.out.println("La tijera vencen al papel.");
                     System.out.println("Y el papel vence a la piedra.");
                     System.out.println("Si ganas 5 tiradas ganas 1 ronda.");
-                }else if(opcionUsuario == 3){
+                case 3(opcionUsuario == 3){
                     System.out.println("Abandonando juego...");
                     x=1;
-                }else if(opcionUsuario == 4){
+                case 4(opcionUsuario == 4){
                 	System.out.println("Hecho por:");
                 	System.out.println("Federico Labrador");
                 	System.out.println("Juan Arnaldi");
